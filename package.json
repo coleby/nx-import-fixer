@@ -3,6 +3,11 @@
 	"displayName": "NX Import Fixer",
 	"description": "Fixes imports for NX packages",
 	"version": "0.0.1",
+  "publisher": "coleby",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/coleby/nx-import-fixer.git"
+  },
 	"engines": {
 		"vscode": "^1.59.0"
 	},
