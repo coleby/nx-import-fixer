@@ -2,8 +2,9 @@
   "name": "nx-import-fixer",
 	"displayName": "NX Import Fixer",
 	"description": "Fixes imports for NX packages",
-	"version": "0.0.1",
+	"version": "0.1.0",
   "publisher": "coleby",
+  "author": "Coleby Kent",
   "repository": {
     "type": "git",
     "url": "https://github.com/coleby/nx-import-fixer.git"
@@ -14,6 +15,7 @@
 	"categories": [
 		"Other"
 	],
+  "icon": "hammer.png",
 	"activationEvents": [
     "onLanguage:typescript",
     "onLanguage:typescriptreact"
